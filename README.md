@@ -13,6 +13,12 @@
 ```
 ![commit](./images/commitGithub.PNG)
 
+## 단체경력
+- mgC(2022 ~ 현재) 창업동아리 신설
+  - Front-End, App, PM
+- 한림대학교 프론트엔드 스터디 (2020 ~ 2021)
+- 포동보동(포근한 동물 보호 동아리) 회장 (2019)
+
 ## 학력
 * 한림대학교 빅데이터전공 3학년 재학(2018 입학)
 * 수택고등학교 졸업 (2015 ~ 2018)
@@ -31,3 +37,11 @@
 ### Android
 * Kotlin
 * Java
+
+### 그 외
+- 모니터링: Google Analytics
+- 커뮤니케이션: Slack / Notion
+- 이슈관리: Github
+- 디자인: Figma
+- 버전관리: Git
+
