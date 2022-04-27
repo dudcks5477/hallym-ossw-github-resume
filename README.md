@@ -1,6 +1,7 @@
 # 이력서
 ## 소개
-![profile](./images/profile.jpg)
+<img src="./images/profile.jpg" width="192px" height="192px"/>
+
 * 이름 : 김영찬
 * 군필여부 : 사회복무요원 복무완료
 * 취미 : 배드민턴, **코딩**, 기획
